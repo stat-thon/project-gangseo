@@ -85,18 +85,13 @@
 <div align=center>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+    <img src="https://img.shields.io/badge/folium-77B829?style=flat-square&logo=folium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=PyPI&logoColor=white"/>
 </div>
 
-- Tableau
-- R
-- pandas
-- scikit-learn
-- folium : 지도 시각화 패키
-- pyproj : 위치 좌표 정보 변환 패키지
 
 ## 프로젝트 진행 단계
 
